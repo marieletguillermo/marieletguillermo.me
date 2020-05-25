@@ -4,7 +4,7 @@ subtitle: ""
 author: "Marielet Guillermo"
 avatar: "img/authors/let.jpg"
 image: "img/inno.png"
-date:   2015-04-23 12:12:12
+date:   2020-05-25 12:12:12
 ---
 
 |   |   |   |   |![Team Kilabot](img/EGI.jpg)|![Team LYNIA](img/egi2.jpg)|![Team MILES](img/egi3.jpg)|
