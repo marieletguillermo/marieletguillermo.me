@@ -4,7 +4,7 @@ subtitle: ""
 author: "Marielet Guillermo"
 avatar: "img/authors/let.jpg"
 image: "img/dlsu1.jpg"
-date: 2015-04-25 12:12:12
+date: 2020-05-25 11:12:12
 ---
 
 ### PHD IN ELECTRONICS AND COMMUNICATIONS ENGINEERING
