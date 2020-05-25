@@ -1,0 +1,7 @@
+# Site settings
+title: Marielet Guillermo
+description: Marielet's Portfolio
+keywords: Modern, Blogging, Fun
+author: Marielet Guillermo
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
