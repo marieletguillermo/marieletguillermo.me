@@ -1,6 +1,7 @@
 # Site settings
 title: Marielet Guillermo
 description: Marielet's Portfolio
+avatar: "img/authors/let.jpg"
 keywords: Modern, Blogging, Fun
 author: Marielet Guillermo
 baseurl: "" # the subpath of your site, e.g. /blog/
