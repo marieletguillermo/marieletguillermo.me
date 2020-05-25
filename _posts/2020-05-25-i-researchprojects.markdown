@@ -4,7 +4,7 @@ subtitle: ""
 author: "Marielet Guillermo"
 avatar: "img/authors/let.jpg"
 image: "img/AI.png"
-date:   2020-05-25 12:12:12
+date:   2020-05-25 11:12:12
 ---
 
 ### Published in: 2020 IEEE 2nd Global Conference on Life Sciences and Technologies (LifeTech)
